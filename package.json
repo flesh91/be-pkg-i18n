@@ -54,7 +54,7 @@
         "preset": "@diia-inhouse/configs/dist/jest"
     },
     "dependencies": {
-        "@types/i18n": "0.13.10",
+        "@types/i18n": "0.13.12",
         "i18n": "0.15.1",
         "type-fest": "4.10.2"
     },
